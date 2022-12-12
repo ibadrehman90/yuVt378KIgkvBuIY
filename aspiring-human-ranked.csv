@@ -1,0 +1,107 @@
+,titles,Tfidf,BERT,GloVe,Score,label
+0,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.028659544,0.5723288,0.448482757,0.5723288,1.0
+1,Native English Teacher at EPIK (English Program in Korea),0.286827042,0.61155003,0.572107344,0.61155003,1.0
+2,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+3,People Development Coordinator at Ryan,0.035722851,0.6389729,0.512606907,0.6389729,1.0
+4,Advisory Board Member at Celal Bayar University,0.148657826,0.58967435,0.737181208,0.58967435,1.0
+5,Aspiring Human Resources Specialist,0.281644163,0.7023107,0.065309691,0.7023107,1.0
+6,Student at Humber College and Aspiring Human Resources Generalist,0.055388855,0.629257,0.266039949,0.629257,1.0
+7,HR Senior Specialist,0.281644163,0.7023107,0.705534143,0.7023107,1.0
+8,Student at Humber College and Aspiring Human Resources Generalist,0.149043324,0.5197734,0.266039949,0.5197734,1.0
+9,Seeking Human Resources HRIS and Generalist Positions,0.055595184,0.55103076,0.230000782,0.55103076,1.0
+10,Student at Chapman University,0.02405312,0.6446765,0.698451168,0.6446765,1.0
+11,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",0.06358818,0.6185253,0.662272555,0.6185253,1.0
+12,Human Resources Coordinator at InterContinental Buckhead Atlanta,1.0,1.0,0.425909368,1.0,1.0
+13,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,1.0,1.0,0.448482757,1.0,1.0
+14,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.028659544,0.5723288,0.448482757,0.5723288,1.0
+15,Native English Teacher at EPIK (English Program in Korea),0.286827042,0.61155003,0.572107344,0.61155003,1.0
+16,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+17,People Development Coordinator at Ryan,1.0,1.0,0.512606907,1.0,1.0
+18,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.028659544,0.5723288,0.448482757,0.5723288,1.0
+19,Native English Teacher at EPIK (English Program in Korea),0.286827042,0.61155003,0.572107344,0.61155003,1.0
+20,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+21,People Development Coordinator at Ryan,0.035722851,0.6389729,0.512606907,0.6389729,1.0
+22,Advisory Board Member at Celal Bayar University,0.148657826,0.58967435,0.737181208,0.58967435,1.0
+23,Aspiring Human Resources Specialist,0.281644163,0.7023107,0.065309691,0.7023107,1.0
+24,Student at Humber College and Aspiring Human Resources Generalist,0.055388855,0.629257,0.266039949,0.629257,1.0
+25,HR Senior Specialist,0.074640128,0.7000693,0.705534143,0.7000693,1.0
+26,Aspiring Human Resources Management student seeking an internship,0.123789398,0.46012574,0.182718598,0.46012574,0.0
+27,Seeking Human Resources Opportunities,0.074640128,0.7000693,0.148487129,0.7000693,1.0
+28,Aspiring Human Resources Management student seeking an internship,0.123789398,0.46012574,0.182718598,0.46012574,0.0
+29,Seeking Human Resources Opportunities,1.0,1.0,0.148487129,1.0,1.0
+30,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.028659544,0.5723288,0.448482757,0.5723288,1.0
+31,Native English Teacher at EPIK (English Program in Korea),0.286827042,0.61155003,0.572107344,0.61155003,1.0
+32,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+33,People Development Coordinator at Ryan,0.035722851,0.6389729,0.512606907,0.6389729,1.0
+34,Advisory Board Member at Celal Bayar University,0.148657826,0.58967435,0.737181208,0.58967435,1.0
+35,Aspiring Human Resources Specialist,0.281644163,0.7023107,0.065309691,0.7023107,1.0
+36,Student at Humber College and Aspiring Human Resources Generalist,0.055388855,0.629257,0.266039949,0.629257,1.0
+37,HR Senior Specialist,0.281644163,0.7023107,0.705534143,0.7023107,1.0
+38,Student at Humber College and Aspiring Human Resources Generalist,0.149043324,0.5197734,0.266039949,0.5197734,1.0
+39,Seeking Human Resources HRIS and Generalist Positions,0.055595184,0.55103076,0.230000782,0.55103076,1.0
+40,Student at Chapman University,0.02405312,0.6446765,0.698451168,0.6446765,1.0
+41,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",0.06358818,0.6185253,0.675424954,0.6185253,1.0
+42,Human Resources Coordinator at InterContinental Buckhead Atlanta,1.0,1.0,0.425909368,1.0,1.0
+43,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.028659544,0.5723288,0.448482757,0.5723288,1.0
+44,Native English Teacher at EPIK (English Program in Korea),0.286827042,0.61155003,0.63058475,0.61155003,1.0
+45,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+46,People Development Coordinator at Ryan,0.035722851,0.6389729,0.512606907,0.6389729,1.0
+47,Advisory Board Member at Celal Bayar University,0.148657826,0.58967435,0.737181208,0.58967435,1.0
+48,Aspiring Human Resources Specialist,0.281644163,0.7023107,0.065309691,0.7023107,1.0
+49,Student at Humber College and Aspiring Human Resources Generalist,0.055388855,0.629257,0.266039949,0.629257,1.0
+50,HR Senior Specialist,0.281644163,0.7023107,0.705534143,0.7023107,1.0
+51,Student at Humber College and Aspiring Human Resources Generalist,0.149043324,0.5197734,0.266039949,0.5197734,1.0
+52,Seeking Human Resources HRIS and Generalist Positions,0.055595184,0.55103076,0.230000782,0.55103076,1.0
+53,Student at Chapman University,0.02405312,0.6446765,0.698451168,0.6446765,1.0
+54,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",0.06358818,0.6185253,0.675424954,0.6185253,1.0
+55,Human Resources Coordinator at InterContinental Buckhead Atlanta,1.0,1.0,0.425909368,1.0,1.0
+56,2019 C.T. Bauer College of Business Graduate (Magna Cum Laude) and aspiring Human Resources professional,0.286827042,0.61155003,0.448482757,0.61155003,1.0
+57,Aspiring Human Resources Professional,0.046445928,0.637651,0.07433728,0.637651,1.0
+58,People Development Coordinator at Ryan,0.148657826,0.58967435,0.512606907,0.58967435,1.0
+59,Aspiring Human Resources Specialist,0.055388855,0.629257,0.065309691,0.629257,1.0
+60,HR Senior Specialist,0.149043324,0.5197734,0.705534143,0.5197734,1.0
+61,Seeking Human Resources HRIS and Generalist Positions,0.055595184,0.5510307,0.230000782,0.5510307,1.0
+62,Student at Chapman University,0.02405312,0.6446765,0.698451168,0.6446765,1.0
+63,"SVP, CHRO, Marketing & Communications, CSR Officer | ENGIE | Houston | The Woodlands | Energy | GPHR | SPHR",0.06358818,0.6185253,0.675424954,0.6185253,1.0
+64,Human Resources Coordinator at InterContinental Buckhead Atlanta,0.220264952,0.78663254,0.425909368,0.78663254,1.0
+65,Experienced Retail Manager and aspiring Human Resources Professional,0.193127594,0.62833434,0.234267204,0.62833434,1.0
+66,"Human Resources, Staffing and Recruiting Professional",0.077916337,0.6530659,0.223103683,0.6530659,1.0
+67,Human Resources Specialist at Luxottica,0.147593444,0.5665446,0.28786323,0.5665446,1.0
+68,"Director of Human Resources North America, Groupe Beneteau",0.050440068,0.61768925,0.352210633,0.61768925,1.0
+69,"Retired Army National Guard Recruiter, office manager,  seeking a position in Human Resources.",0.064341291,0.6354432,0.395203294,0.6354432,1.0
+70,"Human Resources Generalist at ScottMadden, Inc.",0.153182295,0.71479523,0.195973642,0.71479523,1.0
+71,Business Management Major and Aspiring Human Resources Manager,0.122774293,0.7119286,0.235060295,0.7119286,1.0
+72,"Aspiring Human Resources Manager, seeking internship in Human Resources.",0.256524724,0.60845697,0.17435324,0.60845697,1.0
+73,Human Resources Professional,0.047347006,0.5978075,0.122067547,0.5978075,1.0
+74,"Nortia Staffing is seeking Human Resources, Payroll & Administrative Professionals!!  (408) 709-2621",0.111925342,0.6058723,0.29492901,0.6058723,1.0
+75,Aspiring Human Resources Professional | Passionate about helping to create an inclusive and engaging work environment,0.037818215,0.44963223,0.215227592,1.0,1.0
+76,"Human Resources|
+Conflict Management|
+Policies & Procedures|Talent Management|Benefits & Compensation",0.078585801,0.66038525,0.284106674,0.66038525,1.0
+77,Human Resources Generalist at Schwan's,0.089655598,0.65519273,0.334475297,0.65519273,1.0
+78,Liberal Arts Major. Aspiring Human Resources Analyst.,0.031904112,0.6353841,0.229689782,0.6353841,1.0
+79,Junior MES Engineer| Information Systems,0.156588664,0.7143743,0.623312503,0.7143743,1.0
+80,Senior Human Resources Business Partner at Heil Environmental,0.154372501,0.61402386,0.263376016,0.61402386,1.0
+81,Aspiring Human Resources Professional | An energetic and Team-Focused Leader,0.031722646,0.6632888,0.222842806,0.6632888,1.0
+82,HR Manager at Endemol Shine North America,0.091633741,0.72261393,0.736691603,0.72261393,1.0
+83,Human Resources professional for the world leader in GIS software,0.024699004,0.63051426,0.266653603,0.63051426,1.0
+84,RRP Brand Portfolio Executive at JTI (Japan Tobacco International),0.087555918,0.6065528,0.766879679,0.6065528,1.0
+85,Information Systems Specialist and Programmer with a love for data and organization.,0.151916589,0.45922172,0.430924792,0.45922172,0.0
+86,Bachelor of Science in Biology from Victoria University of Wellington,0.082519569,0.564631,0.659682421,0.564631,1.0
+87,Human Resources Management Major,0.100025035,0.60383075,0.212147045,0.60383075,1.0
+88,Director Human Resources  at EY,0.030997803,0.61169696,0.237249369,0.61169696,1.0
+89,Undergraduate Research Assistant at Styczynski Lab,0.032994459,0.56771165,0.579675289,0.56771165,1.0
+90,Lead Official at Western Illinois University,0.024720504,0.50498956,0.615102781,0.50498956,1.0
+91,Seeking employment opportunities within Customer Service or Patient Care,0.026354756,0.4837152,0.470367608,0.4837152,0.0
+92,Admissions Representative at Community medical center long beach,0.103737659,0.43900838,0.576234182,1.0,1.0
+93,Seeking Human  Resources Opportunities. Open to travel and relocation.,0.041171734,0.57935655,0.273391707,0.57935655,1.0
+94,Student at Westfield State University,0.121942672,0.73159826,0.662893455,0.73159826,1.0
+95,"Student at Indiana University Kokomo - Business Management - 
+Retail Manager at Delphi Hardware and Paint",0.286827042,0.61155003,0.658487793,0.61155003,1.0
+96,Aspiring Human Resources Professional,0.107479836,0.45813096,0.07433728,0.45813096,0.0
+97,Student,0.12062732,0.48241496,0.637005197,0.48241496,0.0
+98,Seeking Human Resources Position,0.06776483,0.6744401,0.189530808,0.6744401,1.0
+99,Aspiring Human Resources Manager | Graduating May 2020 | Seeking an Entry-Level Human Resources Position in St. Louis,0.078585801,0.5746161,0.342187195,0.5746161,1.0
+100,Human Resources Generalist at Loparex,0.080351029,0.52640057,0.195973642,0.52640057,1.0
+101,Business Intelligence and Analytics at Travelers,0.029343733,0.5732413,0.651472663,0.5732413,1.0
+102,Always set them up for Success,0.123386575,0.6063194,0.594102959,0.6063194,1.0
